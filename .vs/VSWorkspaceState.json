@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\@core",
+    "\\src\\app\\@core\\mock"
+  ],
+  "SelectedNode": "\\src\\app\\@core\\mock\\users.service.ts",
+  "PreviewInSolutionExplorer": false
+}
